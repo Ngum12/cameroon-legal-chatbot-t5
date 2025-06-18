@@ -164,11 +164,11 @@ ALLOWED_ORIGINS=http://localhost:3000
 
 ### Constitutional Rights Query
 
-**User Input**: "What are the freedom of expression rights in Cameroon?"
+**User Input**: "What are Children's Rights in Cameroon?"
 
 **System Response**:
 
-![Example Response](https://i.imgur.com/bKYRYDL.png)
+![Image](https://github.com/user-attachments/assets/acc586cf-8d69-4888-b20f-9fefaed98c7e)
 
 ### Legal Procedure Query
 
@@ -187,6 +187,8 @@ The process requires:
 3. **Tax Registration** to obtain a taxpayer number
 4. **Social Security Registration** with the CNPS
 5. **Business License** from relevant municipal authority
+
+![Image](https://github.com/user-attachments/assets/11342787-092e-49ca-8931-05958a8565cc)
 
 Registration takes approximately 3-5 business days and costs between 40,000-100,000 FCFA 
 depending on business structure.
