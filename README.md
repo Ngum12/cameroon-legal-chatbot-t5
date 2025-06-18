@@ -1,6 +1,6 @@
 # Cameroon Legal Assistant
 
-![Cameroon Legal Banner](https://i.imgur.com/rJKSYoq.png)
+![Image](https://github.com/user-attachments/assets/dc27b957-a072-4fd8-af2d-eb5df61e5959)
 
 [![Python](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.95.0+-green.svg)](https://fastapi.tiangolo.com/)
