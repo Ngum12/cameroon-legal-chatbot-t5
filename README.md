@@ -174,6 +174,7 @@ ALLOWED_ORIGINS=http://localhost:3000
 
 **User Input**: "How do I register a business in Cameroon?"
 
+![Image](https://github.com/user-attachments/assets/11342787-092e-49ca-8931-05958a8565cc)
 **System Response**:
 
 ```
@@ -187,8 +188,6 @@ The process requires:
 3. **Tax Registration** to obtain a taxpayer number
 4. **Social Security Registration** with the CNPS
 5. **Business License** from relevant municipal authority
-
-![Image](https://github.com/user-attachments/assets/11342787-092e-49ca-8931-05958a8565cc)
 
 Registration takes approximately 3-5 business days and costs between 40,000-100,000 FCFA 
 depending on business structure.
@@ -244,4 +243,3 @@ This project was developed as part of an advanced machine learning implementatio
 
 *Disclaimer: This assistant provides information for educational purposes only and should not be considered legal advice. For specific legal matters, consult a qualified legal professional in Cameroon.*
 
-Similar code found with 1 license type
