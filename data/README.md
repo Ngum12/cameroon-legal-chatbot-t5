@@ -40,7 +40,7 @@ Let’s defeat doubt with facts:
 
 ---
 
-### 📊 Sample Data
+###  Sample Data
 
 ```csv
 question,answer,category,article_reference,source,year_passed
