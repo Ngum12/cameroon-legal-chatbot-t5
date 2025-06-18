@@ -1,0 +1,11 @@
+{
+  "model_name": "t5-small",
+  "fine_tuned_on": "Cameroon Legal Dataset",
+  "date_trained": "2025-06-17 02:46:36",
+  "epochs": 5,
+  "batch_size": 8,
+  "learning_rate": 0.0003,
+  "max_input_length": 128,
+  "max_target_length": 256,
+  "device_used": "cuda"
+}

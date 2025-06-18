@@ -1,0 +1,42 @@
+﻿# Critical ignores - must be at top
+/cameroon-legal-assistant-api/
+/legal_chatbot_model/
+
+# Dependencies
+=======
+﻿# Dependencies
+node_modules/
+venv/
+__pycache__/
+*.py[cod]
+
+# Environment
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Distribution
+/dist/
+/build/
+/target/
+
+# Large files
+*.safetensors
+*.bin
+*.h5
+*.pt
+*.pth
+*.model
+*.pkl
+*.csv
+/backend/legal_chatbot_model/
+/backend/training_results/
+/data/
+
+# Editor and OS files
+.DS_Store
+.idea/
+.vscode/
+*.swp
