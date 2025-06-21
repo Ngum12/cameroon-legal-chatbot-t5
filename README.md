@@ -1,6 +1,6 @@
 # Cameroon Legal Assistant
 
-![Cameroon Legal Banner](https://i.imgur.com/rJKSYoq.png)
+![Image](https://github.com/user-attachments/assets/dc27b957-a072-4fd8-af2d-eb5df61e5959)
 
 [![Python](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.95.0+-green.svg)](https://fastapi.tiangolo.com/)
@@ -164,16 +164,17 @@ ALLOWED_ORIGINS=http://localhost:3000
 
 ### Constitutional Rights Query
 
-**User Input**: "What are the freedom of expression rights in Cameroon?"
+**User Input**: "What are Children's Rights in Cameroon?"
 
 **System Response**:
 
-![Example Response](https://i.imgur.com/bKYRYDL.png)
+![Image](https://github.com/user-attachments/assets/acc586cf-8d69-4888-b20f-9fefaed98c7e)
 
 ### Legal Procedure Query
 
 **User Input**: "How do I register a business in Cameroon?"
 
+![Image](https://github.com/user-attachments/assets/11342787-092e-49ca-8931-05958a8565cc)
 **System Response**:
 
 ```
@@ -242,4 +243,3 @@ This project was developed as part of an advanced machine learning implementatio
 
 *Disclaimer: This assistant provides information for educational purposes only and should not be considered legal advice. For specific legal matters, consult a qualified legal professional in Cameroon.*
 
-Similar code found with 1 license type
