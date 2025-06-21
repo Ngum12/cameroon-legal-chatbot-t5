@@ -4,12 +4,7 @@ services:
     name: cameroon-legal-assistant
     env: static
     buildCommand: npm ci && npm run build
-    staticPublishPath: ./build
+    staticPublishPath: ./dist  # Use dist instead of build for Vite
     envVars:
       - key: REACT_APP_API_URL
-        value: https://huggingface.co/spaces/Ngum/cameroon-legal-assistant-api
-    routes:
-      - type: rewrite
-        source: /*
-        destination: /index.html
-        
+        value: https://your-username-cameroon-legal-assistant-api.hf.space
