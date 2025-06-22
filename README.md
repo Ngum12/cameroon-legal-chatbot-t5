@@ -1,6 +1,6 @@
 # Cameroon Legal Assistant
 
-![Image](https://github.com/user-attachments/assets/dc27b957-a072-4fd8-af2d-eb5df61e5959)
+![Image](https://github.com/user-attachments/assets/34a50ed6-020e-4bd2-9a16-789e408b7e64)
 
 [![Python](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.95.0+-green.svg)](https://fastapi.tiangolo.com/)
@@ -235,9 +235,9 @@ Planned enhancements for future versions include:
 
 This project was developed as part of an advanced machine learning implementation project.
 
-- **Development & Research**: [Your Name]
+- **Development & Research**: [Ngum Dieudonne]
 - **Legal Domain Expertise**: Cameroonian Legal Scholars
-- **Project Supervision**: [Institution Name]
+- **Project Supervision**: [ALU]
 
 ---
 
