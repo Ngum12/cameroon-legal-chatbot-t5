@@ -24,7 +24,7 @@ app = FastAPI(title="Cameroonian Legal Assistant API")
 # Add CORS middleware
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://cameroon-legal-assistant.onrender.com", "http://localhost:5173"],
+    allow_origins=["http://localhost:3000", "http://localhost:5173", "https://cameroon-legal-assistant.onrender.com"],
     allow_credentials=True,
     allow_methods=["*"],  # Allows all methods
     allow_headers=["*"],  # Allows all headers
